@@ -1,5 +1,5 @@
 # modal-app
 
 
-##live demo :
+## live demo :
 <a href= "https://zeinwalid.github.io/modal-app/"></a>
