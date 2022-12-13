@@ -2,4 +2,4 @@
 
 
 ## live demo :
-<a href= "https://zeinwalid.github.io/modal-app/"></a>
+<a href= "https://zeinwalid.github.io/modal-app/">demo</a>
